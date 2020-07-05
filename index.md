@@ -25,6 +25,6 @@
 
 ## Repository
 このブログはGithub Pagesを用いて書かれています。
-意見、不具合等ございましたら、issueを立てていただきますと幸いです。
+意見、不具合等ございましたら、以下のリポジトリにてissueを立てていただきますと幸いです。
 
-GitHub: https://github.com/PhysPeach/cuda-tutorial
+GitHub: [https://github.com/PhysPeach/cuda-tutorial](https://github.com/PhysPeach/cuda-tutorial)

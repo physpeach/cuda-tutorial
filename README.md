@@ -2,4 +2,4 @@
 for R-lab
 
 ## link
-[Index is Here](./index.md)
+[Index is Here](https://physpeach.github.io/cuda-tutorial)
